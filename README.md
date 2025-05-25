@@ -12,13 +12,16 @@
 lalithaar/lalithaar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 -->
-<!-- Introduction -->
-<h1>Kanhu &lt;3</h1>
+
+Kanhu <3
+
 <p align="center" style="color: blue; font-size: 18px;">
   This is a work in progress :> 
-  Thank you for visiting &lt;3
+  Thank you for visiting <3
 </p>
-<h2>Techstack</h2>
+
+## Techstack
+
 <img src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" />
