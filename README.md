@@ -12,11 +12,11 @@
 lalithaar/lalithaar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 -->
-<p align="center" style="color: blue; font-size: 18px;">
+<!--<p align="center" style="color: blue; font-size: 18px;">
   This is a work in progress :> 
   Thank you for visiting <3
-</p>
-https://github-readme-stats.hackclub.dev/api/wakatime?username=5811&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=highcontrast
+</p>-->
+![Hackatime Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=5811&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=highcontrast)
 
 <!--## Techstack
 
