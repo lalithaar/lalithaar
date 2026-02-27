@@ -16,7 +16,7 @@ Currently, I'm pursuing a BS in Data Science at IIT Madras—a place that’s sh
 
 I lead a research lab focused on the intersection of human perception, systemic engineering, and AI-era competency. My work focuses on moving away from "machine-like" proxies toward systems that respect human dignity and cognitive load.
 
-**[Explore the Research Lab](https://www.google.com/search?q=https://lalithaar.github.io/Interdisciplinary-Systems-Research-Lab/)**
+**[Explore the Research Lab](\https://isrl-research.github.io/)**
 — *A repository of field notes, experiments, and formal papers on Color Science, Robomorphism, and the evolution of Software Engineering.*
 
 ## 🚀 Tech Stack & Tools
