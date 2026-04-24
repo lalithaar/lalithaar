@@ -13,9 +13,9 @@ Currently, I'm pursuing a BS in Data Science at IIT Madras—a place that’s sh
 * **Balance:** I believe in healthy work-life boundaries, even when “hustle culture” says otherwise.
 
 ## 🔬 Interdisciplinary Systems Research Lab (iSRL)
-I lead an independent research lab building neutral, open-source digital public infrastructure — systems designed to meet the reality of human complexity rather than flatten it. Our 2026 focus is the Indian Food Informatics Data (IFID) project: a coordination layer for India's food systems that organises thousands of diverse regional ingredient expressions into functional, interoperable categories without erasing the cultural identity behind them.
+I lead iSRL (Interdisciplinary Systems Research Lab) — an open research lab building the data infrastructure that lets experts ask questions Indian food systems couldn't answer before. Our 2026 focus is the Indian Food Informatics Data (IFID) project: a coordination layer for India's food systems that organises thousands of diverse regional ingredient expressions into functional, interoperable categories without erasing the cultural identity behind them.
 
-[Explore the Research Lab](https://isrl-research.github.io/)— Open research artifacts, field notes, and formal reports on food informatics, regulatory systems, and digital public infrastructure. Read across 30+ countries.
+[Explore the Research Lab](https://isrl-research.github.io/) — Open research artifacts, field notes, and formal reports on food informatics, regulatory systems, and digital public infrastructure. Read across 30+ countries.
 
 ## 🚀 Tech Stack & Tools
 
