@@ -1,56 +1,43 @@
 # Hi, I'm Lalitha 👋
 
-I'm a human simply trying to become a kinder version of myself every day, toward others and myself.
+I'm building the UPI for food.
 
-My digital journey began with a book blog on Instagram in 2021, connecting me to a world of stories, friendships, and creative collaborations. Since then, I've explored everything from freelance marketing to mental health advocacy, and now, I'm deep into tech and community building.
+A computer once declared Maggi healthier than rice. iSRL (@isrl-research) is the open research lab teaching it why a grandma would slap it for saying that.
 
-Currently, I'm pursuing a BS in Data Science at IIT Madras—a place that’s shown me the magic of diversity, creativity, and collective growth. I serve as a Notion Campus Leader, where I help hold space for different kinds of learners and foster compassionate teamwork.
+Maida and refined wheat flour are the same thing. Kashmiri chilli is not just a noisy version of chilli. No system in Indian food data can currently tell the difference — so nutrition studies run on shaky ground and compliance checks guess. I lead iSRL's work on IFID, the layer that makes these questions answerable: grounded in FSSAI regulations, ITC-HS codes, and Supreme Court rulings on food classification.
 
-## 💡 What I Value
+All of it — process, dead ends, and outputs — is open on GitHub: https://isrl.in/
 
-* **Love, Courage & Honesty:** Kindness to myself and others, openness, and the courage to bridge differences.
-* **Community:** Building inclusive spaces where people feel seen and heard.
-* **Balance:** I believe in healthy work-life boundaries, even when “hustle culture” says otherwise.
+Apart from the main track, I also go down rabbit holes in equity and access (who gets to do what), responsible use of AI in research and also research whether curd rice is better with potato roast or pomegranate.
 
-## 🔬 Interdisciplinary Systems Research Lab (iSRL)
-I lead iSRL (Interdisciplinary Systems Research Lab) — an open research lab building the data infrastructure that lets experts ask questions Indian food systems couldn't answer before. Our 2026 focus is the Indian Food Informatics Data (IFID) project: a coordination layer for India's food systems that organises thousands of diverse regional ingredient expressions into functional, interoperable categories without erasing the cultural identity behind them.
+## 📄 Research
+> "How do you build systems that respect human complexity?"
 
-[Explore the Research Lab](https://isrl-research.github.io/) — Open research artifacts, field notes, and formal reports on food informatics, regulatory systems, and digital public infrastructure. Read across 30+ countries.
+(No, don't try to understand 'so what is your domain' there isn't one except for building systems that meets and respects the human complexity. So the domain is whatever sphagetti that problem has.[^1])
 
-## 🚀 Tech Stack & Tools
+[^1]: And current problem apparently is something that will make the grandma slap the computers...I have been at it for an year.
 
-- **Languages & Frameworks:** Python (Flask, cm-colors) · JavaScript · HTML · CSS
-- **Databases:** SQLite · PostgreSQL
-- **Markup/Down:** Markdown (md) · reStructuredText (rst) · KaTeX/LaTeX (for math optimization)
-- **IDE/OS:** VSCode · Geany · Linux (Debian)
-- **Productivity:** Notion (Notion Campus Leader) · Airtable · Obsidian · Trello
-- **Languages:** Tamil (native) · English (C2) · Hindi (comfortable) · Korean (A2)
+- [Identity, Transformation, and Function: A Tri-Axial Model for Food Ingredient Classification](https://doi.org/10.5281/zenodo.18714527)
+- [Food Allergens in India: Evidence, Regulation, and the State of Current Knowledge](https://doi.org/10.5281/zenodo.19877561) (with Dr.Mahesh PA of JSS Medical College)
+- [Regulatory Delta of Food Labelling Laws in India: FSSAI 2011 vs 2020](https://doi.org/10.5281/zenodo.18741725) (with S.N. Vukka)
+- [Indian Supreme Court Defines Hierarchical Classification Framework for Food Products](https://www.doi.org/10.5281/zenodo.18651645)
+- [Context-Adaptive Color Optimization for Web Accessibility](https://doi.org/10.48550/arXiv.2512.07623)
+- [Reimagining Software Engineering Interviews in the AI Era: Beyond LeetCode](https://doi.org/10.13140/RG.2.2.31005.37601)
+- [Making Accessibility Accessible, Part I: A Care Framework for Developer-Centered Tooling](https://doi.org/10.13140/RG.2.2.19130.25285)
 
-## 🛋️ Comfort Mode Toolkit
+## 📚 Margin notes
 
-Maintainer of [Comfort Mode Toolkit](https://github.com/comfort-mode-toolkit)—an open-source initiative dedicated to building perceptually comfortable, inclusive, and customizable web experiences.
-
-We focus on making tech spaces gentler, prioritizing accessibility, user autonomy, and well-being—especially for those who need a little extra comfort in digital environments.
-
-## 📚 Projects & Open Source
-
-* Explore [ideabank](https://github.com/lalithaar/ideabank)—a scratchbook of ideas, some just seeds, some more fleshed out.
-If an idea sparks something in you, feel free to take it and run—no need for attribution. Build gently, rest well, and be kind to yourself. If your journey leads to kindness or joy, that’s more than enough.
-Life’s most beautiful journeys are sometimes the quiet ones, shared with someone you love or simply with love.
-* I’m always excited to contribute to open source projects that nurture inclusion, accessibility, and comfort.
-* **Featured Research:** [Care Framework](https://doi.org/10.13140/RG.2.2.19130.25285) – Making Accessibility Accessible, Part I: A Care Framework for Developer-Centered Tooling in web accessibility
-* [Beyond LeetCode](https://doi.org/10.13140/RG.2.2.31005.37601) – Reimagining technical interviews for the AI Era.
-* [Context-Adaptive Color Optimization](https://doi.org/10.48550/arXiv.2512.07623) – Balancing brand fidelity with accessibility.
-
+- [ideabank](https://github.com/lalithaar/ideabank) — a scratchbook of half-formed and fully-formed ideas. If something sparks, take it, no attribution needed.
+- If you ask of my tech stack? I just pick up whatever is needed for the problem at hand. Recently? Tauri x Svelte, Django x HTMX x Alpine Js with a sidedish tools of typst x quarto.
+- Yes, rest and life > hustle.
+- Total yes for free and open source. Check out cm-colors py library that I built, cuz I finally picked out the best color palette....but it wasn't readable rip viewer's eyes and I was too lazy to change the colors again - cm-colors finds the closest color visually s.t it's now readable too. The 2 papers that came out of that algorithm is readable on Arxiv too.
+- You are so worthy of all the love and goodness regardless of anything you did or didn't do and I don't accept otherwise. Thank you very much.
 
 ## 📰 Contact
 
-* Feel free to [reach out](mailto:aralithablogs@gmail.com) for a chat :>
-
-If you're building something you think I'd love, or want to talk about ideas, accessibility, or community, I'm always happy to connect.
+[lalithaar@isrl.in](mailto:lalithaar@isrl.in)
 
 ---
 
 *Ya Devi Sarva Bhuteshu Buddhi Roopena Samsthita, Namasthasyai Namo Namah*
-
 Salutations to the Goddess who dwells in all beings in the form of intelligence. I bow to her again and again.
